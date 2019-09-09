@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">todo_detail</string>
+    <string name="todo_first">To_First</string>
+    <string name="next">Next</string>
+    <string name="previous">Prev</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="textView">TextView</string>
+
+    <string-array name="todos">
+        <item>Wake up</item>
+        <item>Drink Coffee</item>
+        <item>Make at least a person laugh</item>
+        <item>Plant a tree</item>
+        <item>Ponder on duality of existence</item>
+        <item>Go to sleep</item>
+    </string-array>
+
+        <string-array name="todoDescription">
+            <item>Get out of bed. Five am sounds good to me.</item>
+            <item>get fresh by drinking coffee</item>
+            <item>laughing is the best medicine</item>
+            <item>do one good deed a day</item>
+            <item>Pondering pondering pondering on duality of existence</item>
+            <item>time for bed, recharge required</item>
+        </string-array>
+
+
+</resources>
